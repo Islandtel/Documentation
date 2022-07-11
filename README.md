@@ -1,7 +1,7 @@
 ---
 description: Welcome to the Maekongplaza documentation
 cover: .gitbook/assets/ปกบริษัท.png
-coverY: 95.09202453987729
+coverY: 52.14723926380367
 ---
 
 # Introduction
