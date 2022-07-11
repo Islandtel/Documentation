@@ -22,6 +22,14 @@ Tourists who come to visit Chang Rai are more than ten million visitors per year
 
 A big issue about transportation has occurred. The 8 hours by car may cause an accident. The motorway project is still the solution at the end note. The tourists still need to journey nearly 300 kilometers and waste the time in the car. Travelers can visit only 1-2 places because of the time limit. For explorers all over Chiang Rai province, it will take at least 3 or 4 days to be appropriate to many sights and impressive experiences of the heart of Chiang Rai and Myanmar-Lao borders.
 
+{% embed url="https://www.maekongplaza.org/" %}
+Click ​link to Website Maekongplaza
+{% endembed %}
+
 ## MKC Token
 
 This project is intended to refer to real estate in Thailand. Chiang Rai is Unique in tourism and accommodation It was created to bring technology to digital assets. In the future, this cryptocurrency will play a greater role in trading in our projects.
+
+{% embed url="https://bscscan.com/token/0x9AA098a6F9b4C8161e3C7a60a5cdFEa3bF875bb4" %}
+block explorer BscScan
+{% endembed %}
